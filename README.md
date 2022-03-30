@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi%2C+I'm+luc%2C+a+young+developer)](https://git.io/typing-svg)
 </p>
 <p align="center">
-  <a href="https://discord.com/users/567885938160697377">
-    <img src="https://lanyard-profile-readme.vercel.app/api/567885938160697377?bg=0a0f16" alt="Discord Profile"/>
+  <a href="https://discord.com/users/909197654066593812">
+    <img src="https://lanyard-profile-readme.vercel.app/api/909197654066593812?bg=0a0f16" alt="Discord Profile"/>
   </a>
 </p>
 <p align="center">
