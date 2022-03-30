@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi%2C+I'm+luc%2C+a+yong+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi%2C+I'm+luc%2C+a+yonug+developer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discord.com/users/909197654066593812909197654066593812" target="_blank">
