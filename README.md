@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7E800&lines=My+Profile)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
@@ -6,10 +6,10 @@
 <hr>
 
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-us&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_highcontrast&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-us&layout=compact&langs_count=7&theme=highcontrast,contribs&bg_color=00000000" />
       <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=highcontrast&hide_border=true&background=FFFFFF00">
 </div>
 
 <div style="display: inline_block" align="center">
