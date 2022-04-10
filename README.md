@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7E800&lines=My+Profile)](https://git.io/typing-svg)
 
+<p align="center">
     <br>
-    <img src="https://discord.c99.nl/widget/theme-4/909197654066593812.png" />
-<hr>
+  <a href="https://discord.com/users/909197654066593812" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
 
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
