@@ -2,14 +2,15 @@
 
 <p align="center">
     <br>
-    <img src="https://discord.c99.nl/widget/theme-4/909197654066593812.png" />
-<hr>
+  <a href="https://discord.com/users/909197654066593812" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
 
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_highcontrast&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-us&layout=compact&langs_count=7&86400&theme=highcontrast" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_icons=true&theme=highcontrast&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luc-us&theme=highcontrast=true&layout=compact&langs_count=7" alt="Github Languages" />
       <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luc-us&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=highcontrast&hide_border=true&background=151515">
 </div>
 
 <div style="display: inline_block" align="center">
