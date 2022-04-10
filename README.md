@@ -9,7 +9,7 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_highcontrast&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-us&layout=compact&langs_count=7&86400&theme=highcontrast" />
       <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=highcontrast&hide_border=true&background=FFFFFF00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&cache_seconds=86400&theme=highcontrast&hide_border=true&background=FFFFFF00">
 </div>
 
 <div style="display: inline_block" align="center">
