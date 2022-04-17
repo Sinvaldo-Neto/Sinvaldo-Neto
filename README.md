@@ -18,8 +18,12 @@
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 </div>
+<div style="display: inline_block" align="center">
 
 ![:name](https://count.getloli.com/get/@:Luc-us)
+
+</div>
+
 
 
 <br>
