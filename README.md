@@ -25,8 +25,6 @@
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 </div>
 
-<br>
-
 </div>
 
 <hr>
