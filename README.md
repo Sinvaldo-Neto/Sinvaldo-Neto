@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7E800&lines=My+Profile)](https://git.io/typing-svg)
-![:name](https://count.getloli.com/get/@:Luc-us)
 
 <p align="center">
     <br>
@@ -23,8 +22,7 @@
 <br>
 
 <div align="center">
-    <img src="https://badges.pufler.dev/visits/Luc-us/Luc-us" />
-    <img src="https://badges.pufler.dev/repos/Luc-us" />
+![:name](https://count.getloli.com/get/@:Luc-us)
 </div>
 
 </div>
