@@ -20,11 +20,11 @@
 </div>
 
 <br>
+![:name](https://count.getloli.com/get/@:Luc-us)
 
 </div>
 
 <hr>
-![:name](https://count.getloli.com/get/@:Luc-us)
 
 <h3 align='center'>
     🚀 The sky isn't the limit.
