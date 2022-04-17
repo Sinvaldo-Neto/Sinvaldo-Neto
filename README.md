@@ -21,9 +21,9 @@
 
 <br>
 
-<div align="center">
+align="center">
 ![:name](https://count.getloli.com/get/@:Luc-us)
-</div>
+
 
 </div>
 
