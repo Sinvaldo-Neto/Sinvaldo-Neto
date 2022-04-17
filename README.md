@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7E800&lines=My+Profile)](https://git.io/typing-svg)
+![:name](https://count.getloli.com/get/@:Luc-us)
 
 <p align="center">
     <br>
