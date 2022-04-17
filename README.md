@@ -21,7 +21,6 @@
 
 <br>
 
-align="center">
 ![:name](https://count.getloli.com/get/@:Luc-us)
 
 
