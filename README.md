@@ -12,7 +12,6 @@
       <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=midnight-purple&hide_border=true&background=FFFFFF00">
 </div>
-![:name](https://count.getloli.com/get/@:Luc-us)
 
 <div style="display: inline_block" align="center">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,6 +23,7 @@
 
 
 </div>
+![:name](https://count.getloli.com/get/@:Luc-us)
 
 <hr>
 
