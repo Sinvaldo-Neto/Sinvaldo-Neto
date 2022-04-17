@@ -30,6 +30,6 @@
 <hr>
 
 <h3 align='center'>
-    🚀 The sky isn't the limit.
+    🚀 The sky isn't the limit. Go beyond.
 </h3>
 
