@@ -20,9 +20,8 @@
 </div>
 
 <br>
-<h3 style="display: inline_block" align="center">
+
 ![:name](https://count.getloli.com/get/@:Luc-us)
-</h3>
 
 </div>
 
