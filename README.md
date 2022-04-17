@@ -28,8 +28,6 @@
 
 <br>
 
-![:name](https://count.getloli.com/get/@:Luc-us)
-
 </div>
 
 <hr>
