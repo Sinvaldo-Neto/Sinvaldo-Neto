@@ -15,7 +15,7 @@
 
 <div style="display: inline_block" align="center">
 
-https://count.getloli.com/get/@:Luc-us
+![:Luc-us](https://count.getloli.com/get/@:Luc-us)
 
 </div>
 
