@@ -17,8 +17,6 @@
 
 ![:Luc-us](https://count.getloli.com/get/@:Luc-us)
 
-<img src="https://count.getloli.com/get/@:Luc-us" alt=":Luc-us" />
-
 </div>
 
 <div style="display: inline_block" align="center">
