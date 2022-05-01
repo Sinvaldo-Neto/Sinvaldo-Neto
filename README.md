@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=396b4d&lines=My+Profile)](https://git.io/typing-svg)
+![counter](https://count.chiya.dev/get/@Luc)
 
-  ![counter](https://count.chiya.dev/get/@Luc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=396b4d&lines=My+Profile)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
