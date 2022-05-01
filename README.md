@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=396b4d&lines=My+Profile)](https://git.io/typing-svg)
-
+ <p>
+  <img src="https://count.getloli.com/get/@:Luc-us" alt=":Luc-us" />
+</p>
 <p align="center">
     <br>
   <a href="https://discord.com/users/909197654066593812" target="_blank">
@@ -14,8 +16,6 @@
 </div>
 
 <div style="display: inline_block" align="center">
-
-[![https://count.getloli.com/get/@Luc-us?theme=gelbooru](https://count.getloli.com/get/@Luc-us?theme=gelbooru)](https://github.com/Luc-us/)
 
 </div>
 
