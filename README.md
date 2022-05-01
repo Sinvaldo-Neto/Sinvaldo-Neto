@@ -1,4 +1,4 @@
-![counter](https://count.chiya.dev/get/@Luc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=396B4D&lines=A+bot+developer+in+kotlin%2FJavascript)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
