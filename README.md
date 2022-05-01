@@ -15,6 +15,8 @@
 
 <div style="display: inline_block" align="center">
 
+![counter](https://count.chiya.dev/get/@Luc)
+
 </div>
 
 <div style="display: inline_block" align="center">
