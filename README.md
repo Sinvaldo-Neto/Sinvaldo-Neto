@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=396b4d&lines=My+Profile)](https://git.io/typing-svg)
- <p>
+ <p align="center">
   <img src="https://count.getloli.com/get/@:Luc-us" alt=":Luc-us" />
 </p>
 <p align="center">
