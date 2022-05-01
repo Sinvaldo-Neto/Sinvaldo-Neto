@@ -15,7 +15,7 @@
 
 <div style="display: inline_block" align="center">
 
-![Luc-us](https://count.getloli.com/get/@Luc-us.github)
+![Permissions-Discord.js](https://count.getloli.com/get/@Permissions-Discord.js.github)
 
 </div>
 
