@@ -3,7 +3,7 @@
 <p align="center">
     <br>
   <a href="https://discord.com/users/909197654066593812" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=396b4d&borderRadius=5px" alt="Discord Status"/>
+    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=c8a3ba&borderRadius=5px" alt="Discord Status"/>
     </a>
 
 <div align="center">
