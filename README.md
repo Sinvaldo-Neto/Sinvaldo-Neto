@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=396B4D&lines=A+Bot+Developer+in+JS%2FTS%2FKotlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=c8a3ba&lines=A+Bot+Developer+in+JS%2FTS%2FKotlin)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
