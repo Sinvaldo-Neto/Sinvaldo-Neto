@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=282f8c&lines=A+Bot+Developer+in+JS%2FTS%2FKotlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=e2d1c2&lines=A+Bot+Developer+in+JS%2FTS%2FKotlin)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
   <a href="https://discord.com/users/909197654066593812" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=282f8c&borderRadius=5px" alt="Discord Status"/>
+    <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=e2d1c2&borderRadius=5px" alt="Discord Status"/>
     </a>
 
 <div align="center">
