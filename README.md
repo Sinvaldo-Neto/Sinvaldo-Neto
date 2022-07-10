@@ -7,15 +7,15 @@
     </a>
 
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc-us&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-us&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ye-us&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-us&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000" />
       <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luc-us&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ye-us&theme=midnight-purple&hide_border=true&background=FFFFFF00">
 </div>
 
 <div style="display: inline_block" align="center">
 
-![counter](https://count.chiya.dev/get/@Luc)
+![counter](https://count.chiya.dev/get/@Ye)
 
 </div>
 
