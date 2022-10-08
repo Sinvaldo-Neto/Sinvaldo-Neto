@@ -6,12 +6,16 @@
     <img width="45%" src="https://lanyard.cnrad.dev/api/909197654066593812?bg=080808&borderRadius=5px" alt="Discord Status"/>
     </a>
 
+---
+
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zLuc-us&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuc-us&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000" />
-      <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zLuc-us&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <a href="https://github.com/zLuc-us?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuc-us&layout=compact&langs_count=7&theme=react&hide_border=true&hide=makefile,handlebars,html"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zLuc-us&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
 </div>
+
+---
 
 <div style="display: inline_block" align="center">
 
