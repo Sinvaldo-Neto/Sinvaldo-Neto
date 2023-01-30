@@ -34,7 +34,7 @@
         <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap.svg">
+       <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
