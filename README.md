@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF4&width=435&lines=Developer+Typescript/Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF4&width=435&lines=Developer+Typescript)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
@@ -10,6 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/zLuc-us?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuc-us"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zLuc-us&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </div>
