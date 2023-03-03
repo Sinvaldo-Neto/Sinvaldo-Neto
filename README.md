@@ -10,7 +10,6 @@
 
 <div align="center">
   <a href="https://github.com/zLuc-us?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuc-us&theme=radical&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zLuc-us&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </div>
