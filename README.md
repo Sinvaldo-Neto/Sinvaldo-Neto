@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/magynn?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magynn&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/zlucfx?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlucfx&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </div>
 
