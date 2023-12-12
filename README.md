@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=911AF1&width=435&lines=Hello%2C+I'm+Ahoasll%2C+a+simple+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=911AF1&width=435&lines=Hello%2C+I'm+Luc%2C+a+simple+programmer)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
@@ -10,7 +10,7 @@
 
 <div style="display: inline_block" align="center">
 
-![counter](https://count.chiya.dev/get/@Ahoasll)
+![counter](https://count.chiya.dev/get/@zlucfx)
 
 </div>
 
